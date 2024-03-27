@@ -61,8 +61,7 @@ class Designer:
 
 
 class DBManager:
-    class Database:
-        def __init__(self, host, database, user, password):
+    def __init__(self, host, database, user, password):
             """ 
             Initialize a Database object.
 
