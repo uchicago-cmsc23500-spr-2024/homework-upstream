@@ -1,0 +1,1 @@
+SELECT DISTINCT name FROM games LIMIT 10;
